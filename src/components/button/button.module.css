@@ -1,0 +1,14 @@
+.btn{
+    background-color: lightgreen;
+    border-radius: 5px;
+    padding: 0 20px ;
+}
+.primary{
+    background-color: lightcyan;
+}
+.default{
+    background-color: lightpink;
+}
+.error{
+    background-color: lightsalmon;
+}

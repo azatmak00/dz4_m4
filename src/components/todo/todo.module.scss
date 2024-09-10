@@ -1,0 +1,29 @@
+.li {
+  width: 500px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid lightcoral;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  .info {
+    flex-grow: 1;
+  }
+
+  .btns {
+    display: flex;
+    gap: 10px;
+  }
+}
+.completed {
+  background-color: #d4edda;
+}
+
+.line {
+  text-decoration: line-through;
+  color: black;
+}
+
+
