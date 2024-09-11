@@ -1,5 +1,6 @@
 .li {
   width: 500px;
+  height: 100px;
   margin-top: 20px;
   display: flex;
   justify-content: space-between;
@@ -24,6 +25,18 @@
 .line {
   text-decoration: line-through;
   color: black;
+}
+.edit{
+  height: 70px;
+  width: 500px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid lightcoral;
+  margin-bottom: 10px;
+  border-radius: 4px;
 }
 
 
